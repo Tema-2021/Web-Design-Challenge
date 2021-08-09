@@ -2,7 +2,7 @@
 
 ## Background
 
-Data is more powerful when we share it with others! This project is ging to do just that.  
+Data is more powerful when we share it with others! This project is going to do just that.  
 
 ## Latitude - Latitude Analysis Dashboard 
 
